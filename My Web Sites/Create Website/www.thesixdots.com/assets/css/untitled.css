@@ -3,7 +3,7 @@ header.masthead {
 }
 
 .btn.active, .btn:active, .btn:focus, .btn:hover {
-  border-color: rgb(255,182,0);
+  border-color: #ee6b4e;
   background-color: rgb(55,55,55);
 }
 
